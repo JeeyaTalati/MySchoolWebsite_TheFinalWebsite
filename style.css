@@ -1,0 +1,25 @@
+
+            h1{
+                color:green;
+                background-color:rgb(118, 166, 240) ;
+
+            }
+            h2{
+                color:indianred;
+                background-color: rgb(66, 241, 75) ;
+            }
+            .Pages{
+                
+                display:flex;
+                flex-direction: column;
+                
+            }
+            .Item1{
+                background-color: rgb(240, 96, 96);
+            }
+            .Item2{
+                background-color: rgb(100, 247, 163);
+            }
+            body{
+                background-color: sandybrown;
+            }
